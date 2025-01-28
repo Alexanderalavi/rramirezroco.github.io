@@ -26,16 +26,16 @@ h2 {
   font-size: 18px;
 }
 
-.tema-gris {
-  background-color: #757575;
+.tema-verde {
+  background-color: aqua;
 }
 
 .logo-personal {
   height: 30px;
 }
 
-.tema-gris-light {
-  background-color: #c7c7c7;
+.tema-verde-light {
+  background-color: aquamarine;
 }
 
 #informacion-personal > .item-informacion > article > img {
